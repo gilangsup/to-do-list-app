@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+<!-- curl --location --request GET "https://todo.api.devcode.gethired.id/activity-groups?email=gilangsprb@gmail.com"
+https://todo.api.devcode.gethired.id -->
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
